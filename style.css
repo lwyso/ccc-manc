@@ -15,10 +15,18 @@ body{
     align-content: space-around;
 }
 
-img{
-    height: 10px;
+@media (min-width: 320px){
+    img{
+        width: 3%;
+    }
 }
-
-#deportmanc > #gauge{
-    display: block;
+@media (min-width: 961px){
+    img{
+        width: 4%;
+    }
+}
+@media (min-width: 1025px){
+    img{
+        width: 5%;
+    }
 }
