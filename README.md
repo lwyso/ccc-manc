@@ -5,3 +5,7 @@ This is an app to show all climbing centre capacities (those with no advanced bo
 For Depot, you will need to select Manchester to see the counter.
 
 Here's the link: https://lwyso.github.io/ccc-manc/
+
+I hope you will enjoy using this app.
+
+![Image of app](screenshot-ccc.png)
