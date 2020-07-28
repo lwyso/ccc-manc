@@ -1,4 +1,4 @@
-# Climbing Centre in Manchester
+# Climbing Centres Capacity in Manchester
 
 This is an app to show all climbing centre capacities (those with no advanced booking needed) so all centres in Manchester are all in one place.
 
