@@ -8,4 +8,4 @@ Here's the link: https://lwyso.github.io/ccc-manc/
 
 I hope you will enjoy using this app.
 
-![Image of app](screenshot-ccc.png)
+![Image of app](./screenshot-ccc.png)
